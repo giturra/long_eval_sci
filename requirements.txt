@@ -1,0 +1,5 @@
+elasticsearch==8.15.0
+PyYAML>=6.0
+langdetect==1.0.9
+sentence_transformers==5.2.0
+peft==0.18.0
